@@ -1,0 +1,15 @@
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\bin\Debug\net6.0\CalculadoraSystem.exe
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\bin\Debug\net6.0\CalculadoraSystem.deps.json
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\bin\Debug\net6.0\CalculadoraSystem.runtimeconfig.json
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\bin\Debug\net6.0\CalculadoraSystem.dll
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\bin\Debug\net6.0\CalculadoraSystem.pdb
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\CalculadoraSystem.csproj.AssemblyReference.cache
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\CalculadoraSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\CalculadoraSystem.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\CalculadoraSystem.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\CalculadoraSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\CalculadoraSystem.dll
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\refint\CalculadoraSystem.dll
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\CalculadoraSystem.pdb
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\CalculadoraSystem.genruntimeconfig.cache
+C:\Users\Jacob\source\repos\TestCalculadoraSystem\CalculadoraSystem\obj\Debug\net6.0\ref\CalculadoraSystem.dll
