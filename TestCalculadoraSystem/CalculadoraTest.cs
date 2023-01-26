@@ -81,9 +81,9 @@ public class CalculadoraTest
 
     }
     [Theory]
-    [InlineData("a,b")]
-    [InlineData("c,d")]
-    [InlineData("e,f")]
+    [InlineData("a")]
+    [InlineData("4")]
+    [InlineData("c")]
 
     public void ExeptionCaracterIngresadoComoNumero(string caracterIngresado)
     {

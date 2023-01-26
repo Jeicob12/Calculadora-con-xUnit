@@ -45,10 +45,8 @@ public class CalculadoraSystem
 
         foreach (var valor in valores)
         {
-
             var valorEntero = int.Parse(valor);
             valoresParaSumar.Add(valorEntero);
-
         }
 
         foreach (var i in valoresParaSumar)
@@ -78,11 +76,15 @@ public class CalculadoraSystem
     public string CaracterEnviadoComoNumeroSeparadoPorComa(string nro)
     {
         var caracterIngresado = int.Parse(nro);
-        var x = 2;
+        var x = int.Parse(nro);
 
-        if(caracterIngresado != x)
 
-        throw new Exception("SOLO numeros");
+        if (caracterIngresado == x)
+        {
+            throw new Exception("SOLO numeros");
+        }
+
+
 
         return nro;
 
