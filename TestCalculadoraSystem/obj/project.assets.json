@@ -6131,11 +6131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacob\\source\\repos\\TestCalculadoraSystem\\TestCalculadoraSystem\\CalculadoraSystem.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Jacob\\Desktop\\TestCalculadoraSystem\\TestCalculadoraSystem\\CalculadoraSystem.Test.csproj",
       "projectName": "CalculadoraSystem.Test",
-      "projectPath": "C:\\Users\\Jacob\\source\\repos\\TestCalculadoraSystem\\TestCalculadoraSystem\\CalculadoraSystem.Test.csproj",
+      "projectPath": "C:\\Users\\Jacob\\Desktop\\TestCalculadoraSystem\\TestCalculadoraSystem\\CalculadoraSystem.Test.csproj",
       "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacob\\source\\repos\\TestCalculadoraSystem\\TestCalculadoraSystem\\obj\\",
+      "outputPath": "C:\\Users\\Jacob\\Desktop\\TestCalculadoraSystem\\TestCalculadoraSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -6156,8 +6156,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Jacob\\source\\repos\\TestCalculadoraSystem\\CalculadoraSystem\\SystemCalculadora.csproj": {
-              "projectPath": "C:\\Users\\Jacob\\source\\repos\\TestCalculadoraSystem\\CalculadoraSystem\\SystemCalculadora.csproj"
+            "C:\\Users\\Jacob\\Desktop\\TestCalculadoraSystem\\CalculadoraSystem\\SystemCalculadora.csproj": {
+              "projectPath": "C:\\Users\\Jacob\\Desktop\\TestCalculadoraSystem\\CalculadoraSystem\\SystemCalculadora.csproj"
             }
           }
         }

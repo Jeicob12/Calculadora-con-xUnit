@@ -102,5 +102,26 @@ public class CalculadoraTest
 
     // theory para numeros mayores a 100
 
+    [Theory]
+    [InlineData("101")]
+    [InlineData("102")]
+    [InlineData("103")]
+
+    public void nroMayoresACien_DevuelveExeption(string nroMayorACien)
+    {
+        // arrange
+
+        var calculadorda = new CalculadoraSystem();
+
+
+        // act 
+
+        // var numeroNegativoIngresado = calculadorda.ValidarNumerosNegativos(nroNegativo);
+
+        // assert
+        Assert.Throws<Exception>(() => calculadorda.ValidarNumerosMayorACien(nroMayorACien));
+
+    }
+
 }
 

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jacob\\source\\repos\\TestCalculadoraSystem\\CalculadoraSystem\\SystemCalculadora.csproj",
+      "projectUniqueName": "C:\\Users\\Jacob\\Desktop\\TestCalculadoraSystem\\CalculadoraSystem\\SystemCalculadora.csproj",
       "projectName": "SystemCalculadora",
-      "projectPath": "C:\\Users\\Jacob\\source\\repos\\TestCalculadoraSystem\\CalculadoraSystem\\SystemCalculadora.csproj",
+      "projectPath": "C:\\Users\\Jacob\\Desktop\\TestCalculadoraSystem\\CalculadoraSystem\\SystemCalculadora.csproj",
       "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jacob\\source\\repos\\TestCalculadoraSystem\\CalculadoraSystem\\obj\\",
+      "outputPath": "C:\\Users\\Jacob\\Desktop\\TestCalculadoraSystem\\CalculadoraSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

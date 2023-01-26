@@ -89,5 +89,15 @@ public class CalculadoraSystem
     }
 
     //metodo para numeros mayores a 100
+
+    public string ValidarNumerosMayorACien(string nro)
+    {
+        var nroMayorACien = int.Parse(nro);
+
+        if (nroMayorACien >= 100)
+            throw new Exception("el numero es mayor a 100");
+
+        return nro;
+    }
 }
 
